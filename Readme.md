@@ -121,11 +121,3 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 <p>17.05.2020: added support for <b>19628.1</b> Insider Preview
 <p>16.05.2020: added support for <b>19041.84</b>
 </details>
-
-## Donate?
-### Yes, you can buy me a beer or a coffe at 
-[THIS LINK](https://donate.stream/en/sebaxakerhtc) OR
-
-BURST/Signa: BURST-GEL8-6CRU-CNNC-B4RLL
-
-Bitcoin: bc1q4yndy5fnzpq4n6rjdgs5km5udw6654h8s4a0kjv2ypaa2n5k47hs2z9lpd
